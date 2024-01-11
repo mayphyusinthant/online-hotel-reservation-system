@@ -29,7 +29,7 @@ This software includes - a wide range of functionalities for both users and admi
 &ensp; - Cross Site Scripting (XSS) Prevention<br/>
 &ensp; - Statistic Report for admin panel <br/><br/>
 
-<b> Entity Relationship Diagram <b/>
+<b> Entity Relationship Diagram </b>
 
 ![image](https://github.com/mayphyusinthant/online-hotel-reservation-system/assets/154217638/7cb412dc-d13a-40b4-989d-a915454db12e)
 
