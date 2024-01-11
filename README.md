@@ -37,6 +37,6 @@ This software includes - a wide range of functionalities for both users and admi
 
 ![image](https://github.com/mayphyusinthant/online-hotel-reservation-system/assets/154217638/827eca8a-58ae-4bc3-922b-03230989d3f5)
 
-✨  Copyright Notice:
+✨  <b> Copyright Notice: </b> <br/>
 The accompanying images are not owned by Me, May Phyu Sin Thant. All intellectual property rights, including copyright, belong to the University, ENU.<br/>
 They are provided here solely as evidence of my work and achievements of how I have contributed as a back-end developer and database administrator in this Bachelor Project. <br/>
